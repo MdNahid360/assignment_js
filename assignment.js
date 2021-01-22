@@ -1,4 +1,4 @@
-//https://github.com/MdNahid360/js-assignment/tree/master
+//https://github.com/MdNahid360/assignment_js
 function kilometerToMeter(kmVScm) {
       var kilo = kmVScm * 1000;
        return kilo;
